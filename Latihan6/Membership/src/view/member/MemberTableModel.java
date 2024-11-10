@@ -1,4 +1,4 @@
-package view.member;
+package Latihan6.Membership.src.view.member;
 
 import javax.swing.table.*;
 import java.util.List;

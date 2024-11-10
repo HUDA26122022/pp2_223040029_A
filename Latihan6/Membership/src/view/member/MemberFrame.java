@@ -1,4 +1,4 @@
-package view.member;
+package Latihan6.Membership.src.view.member;
 
 import java.awt.event.*;
 import javax.swing.*;

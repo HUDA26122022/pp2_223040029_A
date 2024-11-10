@@ -1,4 +1,4 @@
-package view.main;
+package Latihan6.Membership.src.view.main;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

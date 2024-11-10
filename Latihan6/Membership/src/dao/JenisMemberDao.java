@@ -1,4 +1,4 @@
-package dao;
+package Latihan6.Membership.src.dao;
 
 import java.sql.Statement;
 import db.MySqlConnection;

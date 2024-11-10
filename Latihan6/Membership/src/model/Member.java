@@ -1,4 +1,4 @@
-package model;
+package Latihan6.Membership.src.model;
 
 public class Member {
     private String id;

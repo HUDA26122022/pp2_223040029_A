@@ -1,4 +1,4 @@
-package view.main;
+package Latihan6.Membership.src.view.main;
 
 import java.awt.FlowLayout;
 import java.awt.event.*;
